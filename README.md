@@ -4,6 +4,8 @@ Invoicing SaaS for freelancers: add clients, generate real downloadable PDF invo
 
 Built with Next.js (App Router), Postgres/Prisma, Auth.js, and Stripe.
 
+**Live app:** https://invoicely-rb.vercel.app
+
 ## Features
 
 - **Marketing site** — hero, features, 2-tier pricing (Starter/Pro) linking into signup
